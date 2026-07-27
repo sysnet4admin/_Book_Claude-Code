@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "text2sql-eval-agent"
+version = "0.1.0"
+description = "Text2SQL 데이터분석 에이전트 품질 평가 도구 (EX / EM / Test-Suite EX)"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "sqlglot>=25.0.0",
+    "psycopg[binary]>=3.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+]
+
+[project.scripts]
+text2sql-eval = "text2sql_eval.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+# All tests are plain functions; disable class-based collection so pytest
+# doesn't try to treat imported dataclasses like TestSuiteConfig as test classes.
+python_classes = "NoClassBasedTests"

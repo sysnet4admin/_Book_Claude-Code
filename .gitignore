@@ -70,6 +70,7 @@ __pycache__/
 *.egg-info/
 venv/
 env/
+.venv/
 
 # Docker
 .dockerignore
@@ -84,3 +85,8 @@ env/
 tests
 test-results
 playwright-report
+
+# text2sql_eval_agent ships real unit tests under tests/, not build output
+!/text2sql_eval_agent/tests/
+!/text2sql_eval_agent/tests/**
+/text2sql_eval_agent/tests/**/__pycache__/
