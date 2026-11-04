@@ -7,4 +7,4 @@
 | **p338** | 📁 mcp   | MCP 프로토콜 기반 파일 서버 구현 (파일 읽기/쓰기/목록 도구를 제공하는 간단한 MCP 서버) |
 
 ## 참고 문서
-- **p329**: [npx/uvx는_왜_AI_시대에_필요하며_동시에_위험할까요.pdf](./%5B%ED%81%B4%EB%A1%9C%EB%93%9C_%EC%BD%94%EB%93%9C%5D_p329%EC%99%B8_npx%3Auvx%EB%8A%94_%EC%99%9C_AI_%EC%8B%9C%EB%8C%80%EC%97%90_%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B0_%EB%8F%99%EC%8B%9C%EC%97%90_%EC%9C%84%ED%97%98%ED%95%A0%EA%B9%8C%EC%9A%94.pdf)
+- **p329**: [npx/uvx는_왜_AI_시대에_필요하며_동시에_위험할까요.pdf](./%5B%ED%81%B4%EB%A1%9C%EB%93%9C_%EC%BD%94%EB%93%9C%5D_p329%EC%99%B8_npx_uvx%EB%8A%94_%EC%99%9C_AI_%EC%8B%9C%EB%8C%80%EC%97%90_%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B0_%EB%8F%99%EC%8B%9C%EC%97%90_%EC%9C%84%ED%97%98%ED%95%A0%EA%B9%8C%EC%9A%94.pdf)

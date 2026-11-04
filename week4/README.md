@@ -5,7 +5,7 @@
 | **월** | LLM 엔진 최적화와 컨텍스트 관리 | <small>메모리 시스템 및 컨텍스트 관리 최적화</small> |
 | **화** | 사용자 정의 명령어 만들기 | <small>커스텀 명령어 및 워크플로우 자동화</small> |
 | **수** | 클로드 코드 확장하기 | <small>인터페이스 커스터마이징 및 확장 기능</small> |
-| **목** | 다양한 MCP 활용 전략 | <small>MCP 서버 개발 및 통합 전략 ([npx/uvx.pdf](./Thu/%5B%ED%81%B4%EB%A1%9C%EB%93%9C_%EC%BD%94%EB%93%9C%5D_p329%EC%99%B8_npx%3Auvx%EB%8A%94_%EC%99%9C_AI_%EC%8B%9C%EB%8C%80%EC%97%90_%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B0_%EB%8F%99%EC%8B%9C%EC%97%90_%EC%9C%84%ED%97%98%ED%95%A0%EA%B9%8C%EC%9A%94.pdf))</small> |
+| **목** | 다양한 MCP 활용 전략 | <small>MCP 서버 개발 및 통합 전략 ([npx/uvx.pdf](./Thu/%5B%ED%81%B4%EB%A1%9C%EB%93%9C_%EC%BD%94%EB%93%9C%5D_p329%EC%99%B8_npx_uvx%EB%8A%94_%EC%99%9C_AI_%EC%8B%9C%EB%8C%80%EC%97%90_%ED%95%84%EC%9A%94%ED%95%98%EB%A9%B0_%EB%8F%99%EC%8B%9C%EC%97%90_%EC%9C%84%ED%97%98%ED%95%A0%EA%B9%8C%EC%9A%94.pdf))</small> |
 | **금** | 멀티 에이전트 시스템 | <small>AI 에이전트 협업 시스템 구축</small> |
 | **주말** | AI 코딩 도구의 현재와 미래 | <small>AI 개발 도구 트렌드 및 전망</small> | 
 ---
